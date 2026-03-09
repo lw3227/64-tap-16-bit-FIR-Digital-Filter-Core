@@ -108,4 +108,4 @@ Notes:
 
 ## License
 
-No license file is currently provided. Add one if redistribution is needed.
+MIT License. See [LICENSE](LICENSE).
